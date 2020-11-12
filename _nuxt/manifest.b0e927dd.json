@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-bannerama",
+  "short_name": "nuxt-bannerama",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/banner-generator/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
